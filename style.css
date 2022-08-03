@@ -1,0 +1,9 @@
+
+header{
+    background-image: url(./img/cactos.jpg);
+    height: 500px;
+}
+ footer{
+    height: auto;
+    background-color: green;
+}
